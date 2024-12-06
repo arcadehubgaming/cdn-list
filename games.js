@@ -1750,15 +1750,15 @@ ArcadeHubItems.Games = [
 	},
 	{
 		"name": "1 on 1 Soccer",
-		"url": "https://arcadehubgaming.github.io/cdn11/1on1Soccer-gh-pages"
+		"url": "https://arcadehubgaming.github.io/cdn11/1On1Soccer-gh-pages/1On1Soccer-gh-pages/"
 	},
 	{
 		"name": "3 Pandas in Japan",
-		"url": "https://arcadehubgaming.github.io/cdn11/3PandasInJapan-gh-pages"
+		"url": "https://arcadehubgaming.github.io/cdn11/3PandasInJapan-gh-pages/3PandasInJapan-gh-pages"
 	},
 	{
 		"name": "8 Ball Billards Classic",
-		"url": "https://arcadehubgaming.github.io/cdn11/8BallBillardsClassic-gh-pages"
+		"url": "https://arcadehubgaming.github.io/cdn11/8BallBillardsClassic-gh-pages/8BallBillardsClassic-gh-pages"
 	},
 	{
 		"name": "1010 Deluxe",
@@ -1904,8 +1904,36 @@ ArcadeHubItems.Games = [
 		"name": "Blumgi Rocket",
 		"url": "https://arcadehubgaming.github.io/cdn13/blumgi-rocket/"
 	},
-	{
+	{ 
 		"name": "Blumgi Slime",
 		"url": "https://arcadehubgaming.github.io/cdn13/blumgi-slime/"
+	},
+	{ 
+		"name": "Free Brain Test Tricky Puzzles",
+		"url": "https://arcadehubgaming.github.io/cdn13/free-brain-test-tricky-puzzles/"
+	},
+	{ 
+		"name": "Idle Ants",
+		"url": "https://arcadehubgaming.github.io/cdn13/idle-ants/"
+	},
+	{ 
+		"name": "Idle Digging Tycoon",
+		"url": "https://arcadehubgaming.github.io/cdn13/idle-digging-tycoon/"
+	},
+	{ 
+		"name": "Idle Lumber Inc",
+		"url": "https://arcadehubgaming.github.io/cdn13/idle-lumber-inc/"
+	},
+	{ 
+		"name": "Raft Wars",
+		"url": "https://arcadehubgaming.github.io/cdn13/raft-wars/"
+	},
+	{ 
+		"name": "Raft Wars 2",
+		"url": "https://arcadehubgaming.github.io/cdn13/raft-wars2/"
+	},
+	{ 
+		"name": "Top Speed Racing 3D",
+		"url": "https://arcadehubgaming.github.io/cdn13/top-speeding-racing-3d/"
 	},
 ];
