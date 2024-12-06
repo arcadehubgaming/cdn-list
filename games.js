@@ -1936,4 +1936,52 @@ ArcadeHubItems.Games = [
 		"name": "Top Speed Racing 3D",
 		"url": "https://arcadehubgaming.github.io/cdn13/top-speed-racing-3d/"
 	},
+	{ 
+		"name": "War of Caribbean Pirates",
+		"url": "https://arcadehubgaming.github.io/cdn13/war-of-caribbean-pirates-main/war-of-caribbean-pirates-main/"
+	},
+	{ 
+		"name": "Water Color Sort",
+		"url": "https://arcadehubgaming.github.io/cdn13/water-color-sort-main/water-color-sort-main/"
+	},
+	{ 
+		"name": "Yarn Untangle",
+		"url": "https://arcadehubgaming.github.io/cdn13/yarn-untangle-main/yarn-untangle-main/"
+	},
+	{ 
+		"name": "Zeepkist Crash 2D",
+		"url": "https://arcadehubgaming.github.io/cdn13/zeepkist-crash-2d-main/zeepkist-crash-2d-main/"
+	},
+	{ 
+		"name": "Zombie Derby Pixel Survival",
+		"url": "https://arcadehubgaming.github.io/cdn13/zombie-derby-pixel-survival-main/zombie-derby-pixel-survival-main/"
+	},
+	{ 
+		"name": "Zombie Killer",
+		"url": "https://arcadehubgaming.github.io/cdn13/zombie-killer-main/zombie-killer-main/"
+	},
+	{ 
+		"name": "Zombie Outbreak Arena",
+		"url": "https://arcadehubgaming.github.io/cdn13/zombie-outbreak-arena-main/zombie-outbreak-arena-main/"
+	},
+	{ 
+		"name": "Zombie Siege Outbreak",
+		"url": "https://arcadehubgaming.github.io/cdn13/zombie-siege-outbreak-main/zombie-siege-outbreak-main/"
+	},
+	{ 
+		"name": "Zombie Zunami Online",
+		"url": "https://arcadehubgaming.github.io/cdn13/zombie-zunami-online-main/zombie-zunami-online-main/"
+	},
+	{ 
+		"name": "Zombotag",
+		"url": "https://arcadehubgaming.github.io/cdn13/zombotag-main/zombotag-main/"
+	},
+	{ 
+		"name": "Zoom Be 2",
+		"url": "https://arcadehubgaming.github.io/cdn13/zoom-be-2-main/zoom-be-2-main/"
+	},
+	{ 
+		"name": "Zoom Be 3",
+		"url": "https://arcadehubgaming.github.io/cdn13/zoom-be-3-main/zoom-be-3-main/"
+	},
 ];
