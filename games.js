@@ -256,7 +256,7 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn/burger-and-frights/index.html"
 	},
 	{
-		"name": "CMM Client",
+		"name": "CMM Client (Eaglercraft)",
 		"url": "https://arcadehubgaming.github.io/cdn/CMM Client/CMM Client.html"
 	},
 	{
@@ -1404,7 +1404,7 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/osu!/index.html"
 	},
 	{
-		"name": "piclient",
+		"name": "Pi Client (Eaglercraft)",
 		"url": "https://arcadehubgaming.github.io/cdn6/cdn6/piclient/piclient.html"
 	},
 	{
