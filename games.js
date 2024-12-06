@@ -1934,6 +1934,6 @@ ArcadeHubItems.Games = [
 	},
 	{ 
 		"name": "Top Speed Racing 3D",
-		"url": "https://arcadehubgaming.github.io/cdn13/top-speeding-racing-3d/"
+		"url": "https://arcadehubgaming.github.io/cdn13/top-speed-racing-3d/"
 	},
 ];
