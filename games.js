@@ -1973,10 +1973,6 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn13/zombie-zunami-online-main/zombie-zunami-online-main/"
 	},
 	{ 
-		"name": "Zombotag",
-		"url": "https://arcadehubgaming.github.io/cdn13/zombotag-main/zombotag-main/"
-	},
-	{ 
 		"name": "Zoom Be 2",
 		"url": "https://arcadehubgaming.github.io/cdn13/zoom-be-2-main/zoom-be-2-main/"
 	},
