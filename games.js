@@ -1052,8 +1052,8 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn3/cdn3/smokingbarrels/index.html"
 	},
 	{
-		"name": "Snowbattle",
-		"url": "https://arcadehubgaming.github.io/cdn4/cdn4/snowbattle/index.html"
+		"name": "Snowball.io",
+		"url": "https://arcadehubgaming.github.io/cdn13/snowball.io/index.html"
 	},
 	{
 		"name": "Soccer Random",
