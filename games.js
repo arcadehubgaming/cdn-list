@@ -1984,4 +1984,16 @@ ArcadeHubItems.Games = [
 		"name": "Hobo Prison Brawl",
 		"url": "https://arcadehubgaming.github.io/cdn7/hobo prison brawl"
 	},
+	{ 
+		"name": "Strike Force Heroes",
+		"url": "https://arcadehubgaming.github.io/cdn7/strike force heroes"
+	},
+	{ 
+		"name": "Strike Force Heroes 2",
+		"url": "https://arcadehubgaming.github.io/cdn7/strike force heroes/2"
+	},
+	{ 
+		"name": "Strike Force Heroes 3",
+		"url": "https://arcadehubgaming.github.io/cdn7/strike force heroes/3"
+	},
 ];
