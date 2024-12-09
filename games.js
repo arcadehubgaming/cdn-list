@@ -1976,4 +1976,16 @@ ArcadeHubItems.Games = [
 		"name": "Strike Force Heroes 3",
 		"url": "https://arcadehubgaming.github.io/cdn7/strike force heroes/3"
 	},
+	{
+		"name": "Rage",
+		"url": "https://arcadehubgaming.github.io/cdn7/rage/index.html"
+	},
+	{
+		"name": "Rage 2",
+		"url": "https://arcadehubgaming.github.io/cdn7/rage/2.html"
+	},
+	{
+		"name": "Rage 3",
+		"url": "https://arcadehubgaming.github.io/cdn7/rage/3.html"
+	},
 ];
