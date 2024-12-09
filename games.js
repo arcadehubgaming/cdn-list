@@ -1,17 +1,5 @@
 ArcadeHubItems.Games = [
 	{
-		"name": "run4bootleg",
-		"url": "https://arcadehubgaming.github.io/cdn3/cdn3/run4bootleg/index.html"
-	},
-	{
-		"name": "runner",
-		"url": "https://arcadehubgaming.github.io/cdn3/cdn3/runner/index.html"
-	},
-	{
-		"name": "idledices",
-		"url": "https://arcadehubgaming.github.io/cdn2/idledices/index.html"
-	},
-	{
 		"name": "run 3 (adobe flash required)",
 		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/legacyflashgames/run3flash/run3.swf"
 	},
@@ -28,19 +16,11 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/legacyflashgames/bindingofissac/tboi.swf"
 	},
 	{
-		"name": "monkeymart",
-		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/mart/Monkey Marr.html"
+		"name": "Monkey Mart",
+		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/mart/Monkey Mart.html"
 	},
 	{
-		"name": "swarmsimulator",
-		"url": "https://arcadehubgaming.github.io/cdn4/cdn4/swarmsimulator/Swarm Simulator.html"
-	},
-	{
-		"name": "idledice",
-		"url": "https://arcadehubgaming.github.io/cdn2/idledice/Idle Dice.html"
-	},
-	{
-		"name": "particleclicker",
+		"name": "Particle Clicker",
 		"url": "https://arcadehubgaming.github.io/cdn6/cdn6/particleclicker/particle clicker OG.html"
 	},
 	{
