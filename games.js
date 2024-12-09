@@ -1980,4 +1980,8 @@ ArcadeHubItems.Games = [
 		"name": "Zoom Be 3",
 		"url": "https://arcadehubgaming.github.io/cdn13/zoom-be-3-main/zoom-be-3-main/"
 	},
+	{ 
+		"name": "Hobo Prison Brawl",
+		"url": "https://arcadehubgaming.github.io/cdn7/hobo prison brawl"
+	},
 ];
