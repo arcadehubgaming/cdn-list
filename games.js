@@ -1,19 +1,19 @@
 ArcadeHubItems.Games = [
 	{
-		"name": "run 3 (adobe flash required)",
-		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/legacyflashgames/run3flash/run3.swf"
+		"name": "Run 3",
+		"url": "https://arcadehubgaming.github.io/cdn7/run 3/"
 	},
 	{
-		"name": "mctd2 (adobe flash required)",
-		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/legacyflashgames/minecraft-tower-defence-2/minecraft-tower-defence-2.swf"
+		"name": "Minecraft Tower Defense 2",
+		"url": "https://arcadehubgaming.github.io/cdn7/mctd2/"
 	},
 	{
-		"name": "flash golf 2001 (adobe flash required)",
-		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/legacyflashgames/flashgolf_2001.swf"
+		"name": "Flash Golf 2001",
+		"url": "https://arcadehubgaming.github.io/cdn7/flash golf 2001/"
 	},
 	{
-		"name": "binding of issac (adobe flash required)",
-		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/legacyflashgames/bindingofissac/tboi.swf"
+		"name": "Binding of Issac",
+		"url": "https://arcadehubgaming.github.io/cdn7/bindings of issac/"
 	},
 	{
 		"name": "Monkey Mart",
