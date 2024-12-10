@@ -32,10 +32,6 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn/100ng/index.html"
 	},
 	{
-		"name": "1v1.lol",
-		"url": "https://arcadehubgaming.github.io/cdn/1v1lol/index.html"
-	},
-	{
 		"name": "1v1.space",
 		"url": "https://arcadehubgaming.github.io/cdn/1v1space/index.html"
 	},
@@ -1984,4 +1980,16 @@ ArcadeHubItems.Games = [
 		"name": "Rage 3",
 		"url": "https://arcadehubgaming.github.io/cdn7/rage/3.html"
 	},
+	{
+		"name": "1v1.LOL",
+		"url": "https://arcadehubgaming.github.io/cdn14/1v1.lol/"
+	},
+	{
+		"name": "1v1.LOL (New)",
+		"url": "https://arcadehubgaming.github.io/cdn14/1v1.lol new/"
+	},
+	{
+		"name": "Territorial.io",
+		"url": "https://arcadehubgaming.github.io/cdn14/territorial.io/"
+	}
 ];
