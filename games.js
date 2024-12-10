@@ -1985,10 +1985,6 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn14/1v1.lol/"
 	},
 	{
-		"name": "1v1.LOL (New)",
-		"url": "https://arcadehubgaming.github.io/cdn14/1v1.lol new/"
-	},
-	{
 		"name": "Territorial.io",
 		"url": "https://arcadehubgaming.github.io/cdn14/territorial.io/"
 	}
