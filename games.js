@@ -1,5 +1,9 @@
 ArcadeHubItems.Games = [
 	{
+		"name": "0 test",
+		"url": "h"
+	},
+	{
 		"name": "Minecraft Tower Defense 2",
 		"url": "https://arcadehubgaming.github.io/cdn7/mctd2/"
 	},
