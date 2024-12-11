@@ -1,4 +1,4 @@
-ArcadeHubItems.Games = {
+ArcadeHubItems.Games = [
 	{
 		"name": "Minecraft Tower Defense 2",
 		"url": "https://arcadehubgaming.github.io/cdn7/mctd2/"
