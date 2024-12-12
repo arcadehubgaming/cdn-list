@@ -652,8 +652,8 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/just-one-boss/index.html"
 	},
 	{
-		"name": "JustFall.lol",
-		"url": "https://arcadehubgaming.github.io/cdn7/just-fall/index.html"
+		"name": "Just Fall",
+		"url": "https://arcadehubgaming.github.io/cdn14/just-fall/index.html"
 	},
 	{
 		"name": "Kitchen gun game",
