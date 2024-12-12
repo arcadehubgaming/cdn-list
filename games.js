@@ -1987,5 +1987,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Territorial.io",
 		"url": "https://arcadehubgaming.github.io/cdn14/territorial.io/"
+	},
+	{
+		"name": "Burrito Bison",
+		"url": "https://arcadehubgaming.github.io/cdn14/BurritoBison/"
 	}
 ];
