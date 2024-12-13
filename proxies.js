@@ -49,7 +49,7 @@ ArcadeHubItems.Proxies = [
         "noaboutblank": true
     },
     {
-        "name": "Interstellar (Server #2)",
+        "name": "Interstellar (Server #2) (Opens Random Educational Site too)",
         "url": "https://blocked.enia.net/",
         "noaboutblank": true
     },
