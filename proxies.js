@@ -45,6 +45,7 @@ ArcadeHubItems.Proxies = [
     },
     {
         "name": "Interstellar (Server #1)",
-        "url": "https://housepools.power-media.ro/"
+        "url": "https://housepools.power-media.ro/",
+        "noaboutblank": true
     }
 ];
