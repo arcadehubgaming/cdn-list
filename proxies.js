@@ -47,5 +47,20 @@ ArcadeHubItems.Proxies = [
         "name": "Interstellar (Server #1)",
         "url": "https://housepools.power-media.ro/",
         "noaboutblank": true
+    },
+    {
+        "name": "Interstellar (Server #2)",
+        "url": "https://blocked.enia.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Interstellar (Server #3)",
+        "url": "https://kisei.laviewddns.com/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Interstellar (Server #4)",
+        "url": "https://dartn-zako.laviewddns.com/",
+        "noaboutblank": true
     }
 ];
