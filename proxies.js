@@ -14,17 +14,5 @@ ArcadeHubItems.Proxies = [
     {
         "name": "Emerald (Server #2)",
         "url": "https://vs.ntpromo.ro/"
-    },
-    {
-        "name": "Tinf0il (Server #1)",
-        "url": "https://play.lexia-power-up.us/"
-    },
-    {
-        "name": "Tinf0il (Server #2)",
-        "url": "https://view.lithiumis.us/"
-    },
-    {
-        "name": "Tinf0il (Server #3)",
-        "url": "https://point-blank-should-have-won-proxathon.point-blank.us.kg/"
     }
 ];
