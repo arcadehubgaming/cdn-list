@@ -2023,5 +2023,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Mirror App",
 		"url": "https://arcadehubgaming.github.io/cdn15/Mirror App/"
+	},
+	{
+		"name": "Papa's Wingeria",
+		"url": "https://arcadehubgaming.github.io/cdn14/papaswingeria/"
 	}
 ];
