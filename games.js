@@ -2020,4 +2020,8 @@ ArcadeHubItems.Games = [
 		"name": "Wizard Mike",
 		"url": "https://arcadehubgaming.github.io/cdn15/WizardMike-gh-pages/WizardMike-gh-pages"
 	},
+	{
+		"name": "Mirror App",
+		"url": "https://arcadehubgaming.github.io/cdn15/Mirror App/"
+	}
 ];
