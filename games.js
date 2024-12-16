@@ -1995,5 +1995,29 @@ ArcadeHubItems.Games = [
 	{
 		"name": "La Petite Avril",
 		"url": "https://arcadehubgaming.github.io/cdn15/la-petite-avril/"
-	}
+	},
+	{
+		"name": "Push The Box",
+		"url": "https://arcadehubgaming.github.io/cdn15/PushTheBox-gh-pages/PushTheBox-gh-pages"
+	},
+	{
+		"name": "Idle Light City",
+		"url": "https://arcadehubgaming.github.io/cdn15/IdleLightCity-gh-pages/IdleLightCity-gh-pages"
+	},
+	{
+		"name": "Jungle TD",
+		"url": "https://arcadehubgaming.github.io/cdn15/JungleTD-gh-pages/JungleTD-gh-pages"
+	},
+	{
+		"name": "Rocket Soccer Derby",
+		"url": "https://arcadehubgaming.github.io/cdn15/RocketSoccerDerby-gh-pages/RocketSoccerDerby-gh-pages"
+	},
+	{
+		"name": "Trafic Mania",
+		"url": "https://arcadehubgaming.github.io/cdn15/TraficMania-gh-pages/TraficMania-gh-pages"
+	},
+	{
+		"name": "Wizard Mike",
+		"url": "https://arcadehubgaming.github.io/cdn15/WizardMike-gh-pages/WizardMike-gh-pages"
+	},
 ];
