@@ -1991,5 +1991,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Burrito Bison",
 		"url": "https://arcadehubgaming.github.io/cdn14/BurritoBison/"
+	},
+	{
+		"name": "La Petite Avril",
+		"url": "https://arcadehubgaming.github.io/cdn15/la-petite-avril/"
 	}
 ];
