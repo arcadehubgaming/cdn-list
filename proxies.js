@@ -1,30 +1,22 @@
 ArcadeHubItems.Proxies = [
     {
-        "name": "Doge Unblocker (Server #1) (Has Ads)",
-        "url": "https://renrendane.laviewddns.com/"
-    },
-    {
         "name": "Shadow Browser (Server #1)",
-        "url": "https://evony.laviewddns.com/"
-    },
-    {
-        "name": "Shadow Browser (Server #2)",
         "url": "https://base.diveyez.com/"
     },
     {
-        "name": "Shadow Browser (Server #3)",
+        "name": "Shadow Browser (Server #2)",
         "url": "https://jny7gjz5kqft4ed0taizldewa1g3lfskm9gauwpfzyosch3ydezt6tftwyptdgw.cederfeldt.se/"
     },
     {
-        "name": "Shadow Browser (Server #4)",
+        "name": "Shadow Browser (Server #3)",
         "url": "https://math.focr.sg/"
     },
     {
-        "name": "Shadow Browser (Server #5)",
+        "name": "Shadow Browser (Server #4)",
         "url": "https://jny7gjz5kqft4ed0taizldewa1g3lfskm9gauwpfzyosch3ydezt6tftwyptdgw.cederfeldt.se/"
     },
     {
-        "name": "Shadow Browser (Server #6)",
+        "name": "Shadow Browser (Server #5)",
         "url": "https://education.jodymaroni.com/"
     },
     {
@@ -45,21 +37,11 @@ ArcadeHubItems.Proxies = [
     },
     {
         "name": "Interstellar (Server #1)",
-        "url": "https://housepools.power-media.ro/",
-        "noaboutblank": true
-    },
-    {
-        "name": "Interstellar (Server #2) (Opens Random Educational Site too)",
-        "url": "https://blocked.enia.net/",
-        "noaboutblank": true
-    },
-    {
-        "name": "Interstellar (Server #3)",
         "url": "https://kisei.laviewddns.com/",
         "noaboutblank": true
     },
     {
-        "name": "Interstellar (Server #4)",
+        "name": "Interstellar (Server #2)",
         "url": "https://dartn-zako.laviewddns.com/",
         "noaboutblank": true
     }
