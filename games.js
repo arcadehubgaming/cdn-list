@@ -2027,5 +2027,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Papa's Wingeria",
 		"url": "https://arcadehubgaming.github.io/cdn14/papaswingeria/"
+	},
+	{
+		"name": "Gobble",
+		"url": "https://arcadehubgaming.github.io/cdn15/gobble/"
 	}
 ];
