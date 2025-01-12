@@ -2034,6 +2034,7 @@ ArcadeHubItems.Games = [
 	},
 	{
 		"name": "Angry Birds",
-		"url": "https://arcadehubgaming.github.io/cdn15/angrybirdschrome-source-html5-main/"
+		"url": "https://arcadehubgaming.github.io/cdn15/angrybirdschrome-source-html5-main/",
+		"noaboutblank": true
 	}
 ];
