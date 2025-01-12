@@ -1644,7 +1644,12 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn9/FunnyShooter2-main/"
 	},
 	{
-		"name": "Roblox",
+		"name": "Roblox (Arcade Hub Server)",
+		"url": "https://arcadehub-roblox.global.ssl.fastly.net/",
+		"noaboutblank": true
+	},
+	{
+		"name": "Roblox (3rd Party Server)",
 		"url": "https://ubgroblox.global.ssl.fastly.net/",
 		"noaboutblank": true
 	},
