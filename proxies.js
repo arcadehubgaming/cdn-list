@@ -44,9 +44,5 @@ ArcadeHubItems.Proxies = [
         "name": "Interstellar (Server #2)",
         "url": "https://dartn-zako.laviewddns.com/",
         "noaboutblank": true
-    },
-    {
-        "name": "Szvy Central v2",
-        "url": "https://zearn.global.ssl.fastly.net/"
     }
 ];
