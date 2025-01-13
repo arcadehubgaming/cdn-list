@@ -1316,10 +1316,6 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn6/cdn6/wolf3d/index.html"
 	},
 	{
-		"name": "Wordle",
-		"url": "https://arcadehubgaming.github.io/cdn6/cdn6/wordle/index.html"
-	},
-	{
 		"name": "World's Hardest Game",
 		"url": "https://arcadehubgaming.github.io/cdn6/cdn6/worlds-hardest-game/index.html"
 	},
@@ -2041,5 +2037,17 @@ ArcadeHubItems.Games = [
 		"name": "Angry Birds",
 		"url": "https://arcadehubgaming.github.io/cdn15/angrybirdschrome-source-html5-main/",
 		"noaboutblank": true
+	},
+	{
+		"name": "Wordle",
+		"url": "https://arcadehubgaming.github.io/cdn15/wordle/"
+	},
+	{
+		"name": "Wordle Unlimited",
+		"url": "https://arcadehubgaming.github.io/cdn15/wordle-unlimited/"
+	},
+	{
+		"name": "Worldle",
+		"url": "https://arcadehubgaming.github.io/cdn15/worldle/"
 	}
 ];
