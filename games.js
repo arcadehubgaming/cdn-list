@@ -2049,5 +2049,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Worldle",
 		"url": "https://arcadehubgaming.github.io/cdn15/worldle/"
+	},
+	{
+		"name": "SurvivalCraft",
+		"url": "https://arcadehubgaming.github.io/cdn15/survivalcraft/"
 	}
 ];
