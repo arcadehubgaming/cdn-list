@@ -34,15 +34,5 @@ ArcadeHubItems.Proxies = [
     {
         "name": "Emerald (Server #3)",
         "url": "https://shiniesongreen.69.mu/"
-    },
-    {
-        "name": "Interstellar (Server #1)",
-        "url": "https://kisei.laviewddns.com/",
-        "noaboutblank": true
-    },
-    {
-        "name": "Interstellar (Server #2)",
-        "url": "https://dartn-zako.laviewddns.com/",
-        "noaboutblank": true
     }
 ];
