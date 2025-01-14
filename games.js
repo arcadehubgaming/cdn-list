@@ -2053,5 +2053,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "SurvivalCraft",
 		"url": "https://arcadehubgaming.github.io/cdn15/survivalcraft/"
+	},
+	{
+		"name": "Countries of the World Quiz",
+		"url": "https://arcadehubgaming.github.io/cdn15/countries-of-the-world-quiz/"
 	}
 ];
