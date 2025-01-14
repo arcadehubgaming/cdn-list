@@ -99,6 +99,50 @@ ArcadeHubItems.Movies = [
         "name": "Iron Man 2 (2010)",
         "url": "https://drive.google.com/file/d/1u1glpdPyZvJ1MAgTrxAnTrS8Wvys3Bdt/preview"
     },
+    {
+        "name": "Jurassic Park (1993)",
+        "url": "https://drive.google.com/file/d/1bB65cEOgbz2Y0ic6nGDZfUQlECXBk2qt/preview"
+    },
+    {
+        "name": "Jurassic Park: Lost World (1997)",
+        "url": "https://drive.google.com/file/d/15okru5XkkghrsKUfQJaFUTUHxHF_o9a1/preview"
+    },
+    {
+        "name": "Jurassic Park: III (2001)",
+        "url": "https://drive.google.com/file/d/1W9RJS1N_rBcNFAA73Y3B6leLhhjXXY9k/preview"
+    },
+    {
+        "name": "Jurassic World (2015)",
+        "url": "https://drive.google.com/file/d/1oD0MwA_C9OVb7HeO70m9gAAs-dbm9SJG/preview"
+    },
+    {
+        "name": "Jurassic World Dominion (2022)",
+        "url": "https://drive.google.com/file/d/1x84uwAQzm7-j9MhDdNF5sb_jCRQFhjIa/preview"
+    },
+    {
+        "name": "John Wick (2014)",
+        "url": "https://drive.google.com/file/d/1X9Kflcg0LuRjceV6JghCzs49px8cRTIk/preview"
+    },
+    {
+        "name": "John Wick: Chapter 2 (2017)",
+        "url": "https://drive.google.com/file/d/1gzsZEVTNEb93tSa0nuzlpR2n20D4Dyx9/preview"
+    },
+    {
+        "name": "John Wick: Chapter 3 - Parabellum (2019)",
+        "url": "https://drive.google.com/file/d/1CsIZrKGXn557DdOJrdz5ty7nkg0i4CWR/preview"
+    },
+    {
+        "name": "John Wick: Chapter 4 (2023)",
+        "url": "https://drive.google.com/file/d/10LUlcX6Hu9pn3c3xmPlfJOf20Qjwgxq_/preview"
+    },
+    {
+        "name": "Home Alone (1990)",
+        "url": "https://drive.google.com/file/d/18YKNCTokG3B7ZWzCE3thunyDJMktLxnm/preview"
+    },
+    {
+        "name": "Home Alone 2: Lost in New York (1992)",
+        "url": "https://drive.google.com/file/d/18YKNCTokG3B7ZWzCE3thunyDJMktLxnm/preview"
+    },
     /*{
         "name": "Iron Man 3 (2013)",
         "url": "https://drive.google.com/file/d/1fvmYyJeV_tnapiTZWiRwwDzblSmL5-kW/preview"
