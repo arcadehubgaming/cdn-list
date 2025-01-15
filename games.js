@@ -2057,5 +2057,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Countries of the World Quiz",
 		"url": "https://arcadehubgaming.github.io/cdn15/countries-of-the-world-quiz/"
+	},
+	{
+		"name": "Strands Unlimited",
+		"url": "https://arcadehub-strands.global.ssl.fastly.net/"
 	}
 ];
