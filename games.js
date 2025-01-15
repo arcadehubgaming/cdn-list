@@ -2060,6 +2060,7 @@ ArcadeHubItems.Games = [
 	},
 	{
 		"name": "Strands Unlimited",
-		"url": "https://arcadehub-strands.global.ssl.fastly.net/"
+		"url": "https://arcadehub-strands.global.ssl.fastly.net/",
+		"noaboutblank": true
 	}
 ];
