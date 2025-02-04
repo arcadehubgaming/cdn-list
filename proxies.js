@@ -18,7 +18,7 @@ ArcadeHubItems.Proxies = [
     {
         "name": "Shadow Browser (Server #5)",
         "url": "https://education.jodymaroni.com/"
-    }
+    },
     {
         "name": "TinF0il (Server #1) (Most Recommended)",
         "url": "https://finti0lajpisd.global.ssl.fastly.net/"
