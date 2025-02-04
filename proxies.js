@@ -18,21 +18,9 @@ ArcadeHubItems.Proxies = [
     {
         "name": "Shadow Browser (Server #5)",
         "url": "https://education.jodymaroni.com/"
-    },
+    }
     {
-        "name": "Emerald (Server #1)",
-        "url": "https://howcanibebetteratlifewhenidonthaveajob.pagostepeapulco.gob.mx/"
-    },
-    {
-        "name": "Emerald (Server #2)",
-        "url": "https://vs.ntpromo.ro/"
-    },
-    {
-        "name": "Emerald (Server #3)",
-        "url": "https://shiniesongreen.69.mu/"
-    },
-    {
-        "name": "Emerald (Server #3)",
-        "url": "https://shiniesongreen.69.mu/"
+        "name": "TinF0il (Server #1) (Most Recommended)",
+        "url": "https://finti0lajpisd.global.ssl.fastly.net/"
     }
 ];
