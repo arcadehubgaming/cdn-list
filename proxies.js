@@ -23,5 +23,25 @@ ArcadeHubItems.Proxies = [
         "name": "TinF0il (Server #1) (Most Recommended)",
         "url": "https://finti0lajpisd.global.ssl.fastly.net/",
         "noaboutblank": true
+    },
+    {
+        "name": "TinF0il (Server #2)",
+        "url": "http://schoology-math.ekharipati.com.np/",
+        "noaboutblank": true
+    },
+    {
+        "name": "TinF0il (Server #3)",
+        "url": "https://view.lithiumis.us/",
+        "noaboutblank": true
+    },
+    {
+        "name": "TinF0il (Server #4)",
+        "url": "https://play.lexia-power-up.us/",
+        "noaboutblank": true
+    },
+    {
+        "name": "TinF0il (Server #5)",
+        "url": "https://point-blank-should-have-won-proxathon.point-blank.us.kg/",
+        "noaboutblank": true
     }
 ];
