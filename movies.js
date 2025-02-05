@@ -151,5 +151,10 @@ ArcadeHubItems.Movies = [
         "name": "South Park (Full Series)",
         "url": "https://drive.google.com/drive/folders/1PzKaoaK4blzlaoxnwC20gZoeYE5mDxWL?usp=drive_link",
         "noaboutblank": true
+    },
+    {
+        "name": "Dragonball",
+        "url": "https://drive.google.com/drive/folders/1jOWTtXX3VqcJElQqovEvP5QTWCfgXLBS?usp=drive_link",
+        "noaboutblank": true
     }
 ];  
