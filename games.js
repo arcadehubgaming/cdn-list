@@ -2061,5 +2061,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "ArcadeHub Originals: Strands",
 		"url": "https://arcadehubgaming.github.io/cdn15/strands/out/"
+	},
+	{
+		"name": "New Super Mario Bros.",
+		"url": "https://arcadehubgaming.github.io/cdn16/newsupermariobros/"
 	}
 ];
