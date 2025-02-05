@@ -21,6 +21,7 @@ ArcadeHubItems.Proxies = [
     },
     {
         "name": "TinF0il (Server #1) (Most Recommended)",
-        "url": "https://finti0lajpisd.global.ssl.fastly.net/"
+        "url": "https://finti0lajpisd.global.ssl.fastly.net/",
+        "noaboutblank": true
     }
 ];
