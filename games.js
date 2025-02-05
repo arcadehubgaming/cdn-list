@@ -1376,11 +1376,11 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn6/cdn6/piclient/piclient.html"
 	},
 	{
-		"name": "station meltdown",
+		"name": "Station Meltdown",
 		"url": "https://arcadehubgaming.github.io/cdn4/cdn4/stationmeltdown/index.html"
 	},
 	{
-		"name": "super otto pets",
+		"name": "Super Otto Pets",
 		"url": "https://arcadehubgaming.github.io/cdn4/cdn4/superautopets/index.html"
 	},
 	{
