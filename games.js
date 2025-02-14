@@ -2069,5 +2069,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Love Pawsoma (2025)",
 		"url": "https://arcadehubgaming.github.io/cdn17/LovePawsona-main/"
+	},
+	{
+		"name": "Sudoku",
+		"url": "https://arcadehubgaming.github.io/cdn17/sudoku/"
 	}
 ];
