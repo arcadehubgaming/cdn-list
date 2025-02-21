@@ -43,13 +43,5 @@ ArcadeHubItems.Proxies = [
         "name": "TinF0il (Server #5)",
         "url": "https://point-blank-should-have-won-proxathon.point-blank.us.kg/",
         "noaboutblank": true
-    },
-    {
-        "name": "Core (Server #1)",
-        "url": "https://pull.out-the.brt.ar/"
-    },
-    {
-        "name": "Core (Server #2)",
-        "url": "https://money.ekharipati.com.np/"
     }
 ];
