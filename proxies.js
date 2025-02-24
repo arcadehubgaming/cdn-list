@@ -77,5 +77,135 @@ ArcadeHubItems.Proxies = [
         "name": "Space (Server #6)",
         "url": "https://read.anjumanallana.in/",
         "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #1)",
+        "url": "https://sunsetv3-a.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #2)",
+        "url": "https://sunsetv3-b.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #3)",
+        "url": "https://sunsetv3-c.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #4)",
+        "url": "https://sunsetv3-d.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #5)",
+        "url": "https://sunsetv3-e.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #6)",
+        "url": "https://sunsetv3-f.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #7)",
+        "url": "https://sunsetv3-g.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #8)",
+        "url": "https://sunsetv3-h.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #9)",
+        "url": "https://sunsetv3-i.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #10)",
+        "url": "https://sunsetv3-j.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #11)",
+        "url": "https://sunsetv3-k.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #12)",
+        "url": "https://sunsetv3-l.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #13)",
+        "url": "https://sunsetv3-m.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #14)",
+        "url": "https://sunsetv3-n.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #15)",
+        "url": "https://sunsetv3-o.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #16)",
+        "url": "https://sunsetv3-p.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #17)",
+        "url": "https://sunsetv3-q.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #18)",
+        "url": "https://sunsetv3-r.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #19)",
+        "url": "https://sunsetv3-s.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #20)",
+        "url": "https://sunsetv3-t.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #21)",
+        "url": "https://sunsetv3-u.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #22)",
+        "url": "https://sunsetv3-v.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #23)",
+        "url": "https://sunsetv3-w.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #24)",
+        "url": "https://sunsetv3-x.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #25)",
+        "url": "https://sunsetv3-y.global.ssl.fastly.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Sunset v3 (Server #26)",
+        "url": "https://sunsetv3-z.global.ssl.fastly.net/",
+        "noaboutblank": true
     }
 ];
