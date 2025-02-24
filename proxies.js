@@ -48,4 +48,34 @@ ArcadeHubItems.Proxies = [
         "url": "https://zearn.math-for.7s.com.tr/",
         "noaboutblank": true
     },
+    {
+        "name": "Space (Server #1)",
+        "url": "https://jackmiller-has-a-huge-forehead-and-is-bald.pitlobra.ro/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Space (Server #2)",
+        "url": "https://hey-little-brother.miss-me.saboia.me/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Space (Server #3)",
+        "url": "https://hello.dexter-morgan.kak.si/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Space (Server #4)",
+        "url": "https://hello-arthur-mitchell.xinit.se/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Space (Server #5)",
+        "url": "https://join.puddlehunters.net/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Space (Server #6)",
+        "url": "https://read.anjumanallana.in/",
+        "noaboutblank": true
+    }
 ];
