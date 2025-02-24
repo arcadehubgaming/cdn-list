@@ -207,5 +207,20 @@ ArcadeHubItems.Proxies = [
         "name": "Sunset v3 (Server #26)",
         "url": "https://sunsetv3-z.global.ssl.fastly.net/",
         "noaboutblank": true
+    },
+    {
+        "name": "Arsenic (Server #1)",
+        "url": "https://hithereguys.saltfoodphoto.com/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Emerald (Server #1)",
+        "url": "https://xn--3rcaa8il0acdnaabaaae9gqbc4a6gqbzqccccecccc1t2fddefdj.bostoncareercounselor.com/",
+        "noaboutblank": true
+    },
+    {
+        "name": "Emerald (Server #2)",
+        "url": "https://classlink.pimp.co.za/",
+        "noaboutblank": true
     }
 ];
