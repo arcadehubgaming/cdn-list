@@ -856,7 +856,7 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn3/cdn3/portalflash/index.html"
 	},
 	{
-		"name": "Precision Client (Eaglercraft)",
+		"name": "Precision Client (Eaglercraft 1.5.2)",
 		"url": "https://arcadehubgaming.github.io/cdn3/cdn3/precision-client/index.html"
 	},
 	{
@@ -880,7 +880,7 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn3/cdn3/rabbit-samurai2/index.html"
 	},
 	{
-		"name": "Resent Client (Eaglercraft)",
+		"name": "Resent Client (Eaglercraft 1.8.8)",
 		"url": "https://arcadehubgaming.github.io/cdn3/cdn3/resent-client/index.html"
 	},
 	{
@@ -1372,7 +1372,7 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn5/cdn5/osu!/index.html"
 	},
 	{
-		"name": "Pi Client (Eaglercraft)",
+		"name": "Pi Client (Eaglercraft 1.8.8)",
 		"url": "https://arcadehubgaming.github.io/cdn6/cdn6/piclient/piclient.html"
 	},
 	{
@@ -2073,5 +2073,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Sudoku",
 		"url": "https://arcadehubgaming.github.io/cdn17/sudoku/"
+	},
+	{
+		"name": "Eaglercraft (1.8.8 With Singleplayer)",
+		"url": "https://arcadehubgaming.github.io/cdn18/eaglercraft/"
 	}
 ];
