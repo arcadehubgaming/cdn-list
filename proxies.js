@@ -217,10 +217,5 @@ ArcadeHubItems.Proxies = [
         "name": "Emerald (Server #1)",
         "url": "https://xn--3rcaa8il0acdnaabaaae9gqbc4a6gqbzqccccecccc1t2fddefdj.bostoncareercounselor.com/",
         "noaboutblank": true
-    },
-    {
-        "name": "Emerald (Server #2)",
-        "url": "https://classlink.pimp.co.za/",
-        "noaboutblank": true
     }
 ];
