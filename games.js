@@ -2079,7 +2079,7 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn18/eaglerforge/"
 	},
 	{
-		"name": "Eaglercraft (1.8.8 WASM) (Most Recommended)",
+		"name": "Eaglercraft (Astrid Client 1.8.8 WASM) (Most Recommended)",
 		"url": "https://arcadehubgaming.github.io/cdn18/eaglercraft-1.8.8-wasm/"
 	}
 ];
