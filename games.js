@@ -80,7 +80,7 @@ ArcadeHubItems.Games = [
 		"url": "https://arcadehubgaming.github.io/cdn/alienhominid/index.html"
 	},
 	{
-		"name": "Amazing rope police",
+		"name": "Amazing Strange Rope Police",
 		"url": "https://arcadehubgaming.github.io/cdn/amazing-rope-police/index.html"
 	},
 	{
