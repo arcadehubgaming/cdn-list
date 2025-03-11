@@ -177,5 +177,13 @@ ArcadeHubItems.Movies = [
     {
         "name": "Wicked (2024)",
         "url": "https://drive.google.com/file/d/1EiT5_VDJyMbrG5ezazVyzzOu1nWAkmE8/preview"
+    },
+    {
+        "name": "Deadpool & Wolverine (2024)",
+        "url": "https://drive.google.com/file/d/17rO8-6BeGxZ_2HelJIU_mefZQ_j-cpIb/preview"
+    },
+    {
+        "name": "Venom - The Last Dance (2024)",
+        "url": "https://drive.google.com/file/d/1C6aUcmJeLpm8ysdYwnt7HRZFAT6k0oQs/preview"
     }
 ];  
