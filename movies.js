@@ -156,5 +156,26 @@ ArcadeHubItems.Movies = [
         "name": "Dragonball",
         "url": "https://drive.google.com/drive/folders/1jOWTtXX3VqcJElQqovEvP5QTWCfgXLBS?usp=drive_link",
         "noaboutblank": true
+    },
+    {
+        "name": "200 Classic Cartoons (Looney Tunes and etc.)",
+        "url": "https://drive.google.com/drive/folders/199Ap_gLCBj7b6Nc4GetvHzrEq2iJM0HV?usp=drive_link",
+        "noaboutblank": true
+    },
+    {
+        "name": "Dog Man (2025)",
+        "url": "https://drive.google.com/file/d/1aXHiOSQjs7rCj933p22WnVSHOsVnv7IB/preview"
+    },
+    {
+        "name": "Sonic The Hedgehog 3 (2024)",
+        "url": "https://drive.google.com/file/d/13pgT7HSDRXYeXvkU0RAEqbdrHrFxPiIm/preview"
+    },
+    {
+        "name": "Red One (2024)",
+        "url": "https://drive.google.com/file/d/1QQx9ogqUJzS3G8GIZXLBAhgx2s2Ol2zZ/preview"
+    },
+    {
+        "name": "Wicked (2024)",
+        "url": "https://drive.google.com/file/d/1EiT5_VDJyMbrG5ezazVyzzOu1nWAkmE8/preview"
     }
 ];  
