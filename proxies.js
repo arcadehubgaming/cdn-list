@@ -215,7 +215,7 @@ ArcadeHubItems.Proxies = [
     },
     {
         "name": "Emerald (Server #1)",
-        "url": "https://xn--3rcaa8il0acdnaabaaae9gqbc4a6gqbzqccccecccc1t2fddefdj.bostoncareercounselor.com/",
+        "url": "https://theoiscrashingout.gruponet.com.ar/",
         "noaboutblank": true
     }
 ];
