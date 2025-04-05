@@ -189,5 +189,9 @@ ArcadeHubItems.Movies = [
     {
         "name": "A Minecraft Movie (2025)",
         "url": "https://drive.google.com/file/d/1bAf71el9hSRwObQF-P79tuE2tLDK67EL/preview"
+    },
+    {
+        "name": "Dog Man (2025)",
+        "url": "https://drive.google.com/file/d/1aXHiOSQjs7rCj933p22WnVSHOsVnv7IB/preview"
     }
 ];  
