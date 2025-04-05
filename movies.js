@@ -185,5 +185,9 @@ ArcadeHubItems.Movies = [
     {
         "name": "Venom - The Last Dance (2024)",
         "url": "https://drive.google.com/file/d/1C6aUcmJeLpm8ysdYwnt7HRZFAT6k0oQs/preview"
+    },
+    {
+        "name": "A Minecraft Movie (2025)",
+        "url": "https://drive.google.com/file/d/1bAf71el9hSRwObQF-P79tuE2tLDK67EL/preview"
     }
 ];  
