@@ -2089,5 +2089,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Eaglercraft (1.12.2 ALPHA)",
 		"url": "https://arcadehubgaming.github.io/cdn18/eaglercraft-1.12.2-alpha/"
+	},
+	{
+		"name": "Eaglercraft (1.12.2 WASM) (Most Recommended)",
+		"url": "https://arcadehubgaming.github.io/cdn18/eaglercraft-1.12.2-wasm/"
 	}
 ];
