@@ -2096,6 +2096,6 @@ ArcadeHubItems.Games = [
 	},
 	{
 		"name": "Crazy Cattle 3D",
-		"url": "https://arcadehubgaming.github.io/cdn18/crazycastle3d/"
+		"url": "https://arcadehubgaming.github.io/cdn18/crazycattle3d/"
 	}
 ];
