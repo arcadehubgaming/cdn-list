@@ -2093,5 +2093,9 @@ ArcadeHubItems.Games = [
 	{
 		"name": "Eaglercraft (1.12.2 WASM) (Most Recommended)",
 		"url": "https://arcadehubgaming.github.io/cdn18/eaglercraft-1.12.2-wasm/"
+	},
+	{
+		"name": "Crazy Cattle 3D",
+		"url": "https://arcadehubgaming.github.io/cdn18/crazycastle3d/"
 	}
 ];
